@@ -7,12 +7,12 @@
 - [Reference Source .NET Framework 4.8](https://referencesource.microsoft.com/)
 
 
-# TEST TOOLS:
+# Test Tools:
 
 - [xUnit](https://xunit.net/)
 - [moq](https://www.devlooped.com/moq/)
 - [Fluent Assertions](https://fluentassertions.com/)
 - [Machine.Specifications (aka MSpecs)](https://github.com/machine/machine.specifications)
 
-# FAKE DATA GENERATOR:
+# Fake Data Generator:
 - [Bogus](https://github.com/bchavez/Bogus)
