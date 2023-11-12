@@ -10,9 +10,13 @@
 # Test Tools:
 
 - [xUnit](https://xunit.net/)
-- [moq](https://www.devlooped.com/moq/)
+- [NUnit](https://nunit.org/)
 - [Fluent Assertions](https://fluentassertions.com/)
 - [Machine.Specifications (aka MSpecs)](https://github.com/machine/machine.specifications)
+
+# Mocking Tools:
+- [Moq](https://www.devlooped.com/moq/)
+- [NSubstitue](https://nsubstitute.github.io/)
 
 # Fake Data Generator:
 - [Bogus](https://github.com/bchavez/Bogus)
