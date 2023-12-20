@@ -6,6 +6,9 @@
 - [Source Browser .NET Compiler Platform ("Roslyn")](https://sourceroslyn.io/)
 - [Reference Source .NET Framework 4.8](https://referencesource.microsoft.com/)
 
+## Logging
+
+- [Seq](https://datalust.co/seq)
 
 # Test Tools:
 
