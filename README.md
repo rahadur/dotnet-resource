@@ -10,16 +10,19 @@
 
 - [Seq](https://datalust.co/seq)
 
-# Test Tools:
+## Utilities
+- [Humanizer](https://github.com/Humanizr/Humanizer)
+
+## Testing:
 
 - [xUnit](https://xunit.net/)
 - [NUnit](https://nunit.org/)
 - [Fluent Assertions](https://fluentassertions.com/)
 - [Machine.Specifications (aka MSpecs)](https://github.com/machine/machine.specifications)
 
-# Mocking Tools:
+## Mocking:
 - [Moq](https://www.devlooped.com/moq/)
 - [NSubstitue](https://nsubstitute.github.io/)
 
-# Fake Data Generator:
+## Fake Data Generator:
 - [Bogus](https://github.com/bchavez/Bogus)
