@@ -10,6 +10,9 @@
 
 - [Seq](https://datalust.co/seq)
 
+## Background Jobs
+- [Hangfire](https://www.hangfire.io/)
+
 ## Utilities
 - [Humanizer](https://github.com/Humanizr/Humanizer)
 
