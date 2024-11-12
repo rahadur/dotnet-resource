@@ -13,6 +13,12 @@
 ## Background Jobs
 - [Hangfire](https://www.hangfire.io/)
 
+## Job Schedulers
+- [NCrontab](https://github.com/atifaziz/NCrontab)
+- [Workflow Core](https://github.com/danielgerlag/workflow-core)
+- [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
+- [Quartz.NET - Enterprise Job Scheduler](https://github.com/quartznet/quartznet)
+
 ## Utilities
 - [Humanizer](https://github.com/Humanizr/Humanizer)
 
