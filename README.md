@@ -14,6 +14,7 @@
 - [Hangfire](https://www.hangfire.io/)
 
 ## Job Schedulers
+- [Coravel](https://docs.coravel.net/)
 - [NCrontab](https://github.com/atifaziz/NCrontab)
 - [Workflow Core](https://github.com/danielgerlag/workflow-core)
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
