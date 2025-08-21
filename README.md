@@ -19,6 +19,7 @@
 - [Workflow Core](https://github.com/danielgerlag/workflow-core)
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
 - [Quartz.NET - Enterprise Job Scheduler](https://github.com/quartznet/quartznet)
+- [TickerQ](https://tickerq.arcenox.com/)
 
 ## Utilities
 - [Humanizer](https://github.com/Humanizr/Humanizer)
